@@ -1,0 +1,44 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.exe
+*.identcache
+*.stat
+*.local
+/__history/
+*/__history/*
+.~*~
+/__history/*.~*
+Fontes/Controller/__history/
+Fontes/Model/__history/
+*.dcu
+Fontes/Model/DAO/__history/
+Fontes/Model/Modelo/__history/
+Fontes/Model/APP/__history/
+Fontes/View/__history/
+Fontes/Model/API/__history/
+Fontes/View/__recovery/
+Fontes/Model/DAO/__recovery/
+Fontes/Model/Crypto/__history/
+Fontes/Model/Modelo/__recovery/
+Fontes/Model/Regedit/__history/
+Fontes/__recovery/
+Fontes/Model/Local/DAO/__history/
+Fontes/Model/Local/Modelo/__history/WSPW3.Local.Model.SGBDConf.pas.~1~
+Fontes/Model/Local/Modelo/__history/WSPW3.Local.Model.SGBDConf.pas.~2~
+Fontes/Model/Local/Modelo/__history/
+Fontes/Model/Service/__history/WSPW3.Service.Interfaces.pas.~1~
+Fontes/Model/Service/__history/
+Fontes/Apache/__history/mod_wspw3.dpr.~10~
+Fontes/Apache/__history/mod_wspw3.dpr.~11~
+Fontes/Apache/__history/
+Fontes/Console/__history/
+Fontes/AppManager/__history/
+Fontes/AppManager/View/__history/
+Fontes/AppManager/Controller/__history/
+Fontes/AppManager/DAO/__history/
+<<<<<<< HEAD
+Fontes/Model/Helpers/__history/System.Generics.Collections.Helper.pas.~2~
+Fontes/Model/Helpers/__history/System.Generics.Collections.Helper.pas.~1~
+Docs/TJurema/gg-client.windows.msi
+=======
+modules/
+>>>>>>> 9a0776805815f302c231a6376afcc4f16ec37ee7
